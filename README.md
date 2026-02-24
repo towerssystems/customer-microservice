@@ -15,7 +15,7 @@ Este projeto implementa um microserviço de gerenciamento de clientes utilizando
 1.  **Clone o repositório:**
 
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/towerssystems/customer-microservice.git
     cd customer-microservice
     ```
 
