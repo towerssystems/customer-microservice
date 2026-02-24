@@ -1,0 +1,7 @@
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/controller/CustomerController.java
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/repository/CustomerRepository.java
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/CustomerApplication.java
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/model/Customer.java
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/config/SecurityConfig.java
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/config/RabbitMQConfig.java
+/Users/marcelo/projects/customer-microservice/src/main/java/com/dxc/claro/customer/service/CustomerService.java

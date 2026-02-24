@@ -1,0 +1,10 @@
+com/dxc/claro/customer/controller/CustomerController.class
+com/dxc/claro/customer/repository/CustomerRepository.class
+com/dxc/claro/customer/service/CustomerService.class
+com/dxc/claro/customer/config/SecurityConfig.class
+com/dxc/claro/customer/model/Customer$CustomerBuilder.class
+com/dxc/claro/customer/config/RabbitMQConfig.class
+com/dxc/claro/customer/CustomerApplication.class
+com/dxc/claro/customer/config/SecurityConfig$AuthorizationServerConfig.class
+com/dxc/claro/customer/config/SecurityConfig$ResourceServerConfig.class
+com/dxc/claro/customer/model/Customer.class
